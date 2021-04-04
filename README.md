@@ -41,3 +41,6 @@ Working with repo:
     sudo python3 examples/strandtest.py
     ```
 
+## Setting up server to control the LEDs remotely.
+
+The steps to set-up the server and the relevant files are in [this](https://github.com/rajputsher/Server_app_raspi) repository.
